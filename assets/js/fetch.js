@@ -1,0 +1,3 @@
+function selectCourse(){
+    alert("hoy");
+}
